@@ -11,6 +11,8 @@ Please cite the paper if you use this code in your own work.
 }
 ```
 
+Link to paper: <https://arxiv.org/abs/2012.06755>
+
 ## Instructions
 To launch the training of our proposed method on a dataset from the [TUD](https://chrsmrrs.github.io/datasets/)
 collection you can use:
