@@ -78,6 +78,7 @@ This code requires Python 3.6 (or higher) and makes use of the following package
 
 * PyTorch 1.4.0
 * PyTorch Geometric 1.4.3 [(Installation Instructions)](https://github.com/rusty1s/pytorch_geometric)
+* TorchMeta 1.4.0 [(Installation Instructions)](https://github.com/tristandeleu/pytorch-meta)
 * Matplotlib 3.2.1
 * NetworkX 2.4
 * scikit-learn 0.22.2
