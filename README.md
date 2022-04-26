@@ -1,8 +1,17 @@
-# A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings
+# SAME: Single-Task Adaptation for Multi-Task Embeddings
 
-Reference code for the paper: "A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings", presentedat the NeurIPS Workshop on Meta-Learning (MetaLearn) 2020.
-Please cite the paper if you use this code in your own work. 
+Reference code for the papers:
+- "Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach", published at the International Joint Conference on Neural Networks (IJCNN) 2022.
+- "A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings", presented at the NeurIPS Workshop on Meta-Learning (MetaLearn) 2020.
+
+Please cite the papers if you use this code in your own work. 
 ```
+@article{buffelliijcnn2022,
+  author = {Buffelli, Davide and Vandin, Fabio},
+  title = {Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach},
+  journal = {International Joint Conference on Neural Networks (IJCNN)},
+  year = {2022}
+}
 @article{buffellimetalearn2020,
   author = {Buffelli, Davide and Vandin, Fabio},
   title = {A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings},
